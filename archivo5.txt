@@ -2,3 +2,4 @@ Nombre: Israel
 Alias: Tamal
 Edad: 54
 Estudios: Lic. en Economia
+Localidad: Guadalajara
