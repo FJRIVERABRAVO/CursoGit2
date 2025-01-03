@@ -1,3 +1,4 @@
 Nombre: Israel
-Alias: Tortuga
+Alias: Tamal
 Edad: 54
+Estudios: Lic. en Economia
