@@ -1,4 +1,5 @@
 Nombre: Roberto Abraham
 Alias: Chewbacca
-
 Edad: 41
+Estudios: Lic. en agronomia
+Localidad: USA
