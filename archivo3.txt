@@ -1,2 +1,4 @@
 Nombre: Isidro
 Alias: Sese
+Edad: 58
+Estudios: Lic. en Informatica
